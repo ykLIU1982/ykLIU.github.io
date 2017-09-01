@@ -1,4 +1,5 @@
 # ykLIU1982.github.io
-the personal website maintaining the bio and other information
 
-Follow the tutorial of setting up personal website in GitHub in the link: http://jmcglone.com/guides/github-pages/
+This is the repo that maintains my personal website other than what my LinkedIn covers.
+
+I followed the tutorial in the link: http://jmcglone.com/guides/github-pages/ for the setup.
